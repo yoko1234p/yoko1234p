@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="90" viewBox="0 0 96 90" role="img" aria-label="SwiftUI">
+<rect x="1" y="1" width="94" height="88" rx="14" fill="#f5f9fc" stroke="#c8d9e8" stroke-width="1.5"/>
+<rect x="15" y="85" width="66" height="3" rx="1.5" fill="#65b9d8"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 64 64" role="img" aria-label="SwiftUI" x="26" y="13">
+<defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#65b9ff" /><stop offset="1" stop-color="#6a62e8" /></linearGradient></defs>
+<rect width="64" height="64" rx="14" fill="url(#g)" />
+<path d="M17 20h30v24H17z" fill="none" stroke="#fff" stroke-width="3" stroke-linejoin="round" />
+<path d="M17 28h30M25 28v16" stroke="#fff" stroke-width="2.5" />
+<circle cx="21" cy="24" r="1.5" fill="#fff" /><circle cx="26" cy="24" r="1.5" fill="#fff" />
+</svg>
+<text x="48" y="73" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Arial,sans-serif" font-size="11" font-weight="700" fill="#23364a">SwiftUI</text>
+</svg>

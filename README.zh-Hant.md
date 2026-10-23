@@ -15,27 +15,43 @@
 <a href="https://github.com/yoko1234p/NotchHub"><img src="assets/card-NotchHub.svg" alt="NotchHub" width="31%"></a>
 </p>
 
-## 技術履歷
+## 我用嘅技術
 
-我使用 macOS 原生框架、瀏覽器擴充、網頁介面和測試工具。下表每項技術都連到可查閱的公開程式碼。
+呢度結合公開項目、[工作經驗](https://github.com/yoko1234p/impatrickho/blob/main/constants.ts)同我用嘅開發工具。項目圖示連到程式碼；職涯技術連到履歷。
 
-<table align="center"><tr>
-<td align="center" width="100"><a href="https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/BarPilotApp.swift"><img src="assets/skills/swift-original.svg" alt="Swift" width="42" height="42"><br><sub>Swift</sub></a></td>
-<td align="center" width="100"><a href="https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/DisplayLayoutsView.swift"><img src="assets/skills/swiftui.svg" alt="SwiftUI" width="42" height="42"><br><sub>SwiftUI</sub></a></td>
-<td align="center" width="100"><a href="https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/MenuBarInventory.swift"><img src="assets/skills/appkit.svg" alt="AppKit" width="42" height="42"><br><sub>AppKit</sub></a></td>
-<td align="center" width="100"><a href="https://github.com/yoko1234p/TGLocal/blob/main/src/inline.js"><img src="assets/skills/javascript-original.svg" alt="JavaScript" width="42" height="42"><br><sub>JavaScript</sub></a></td>
-<td align="center" width="100"><a href="https://github.com/yoko1234p/impatrickho/blob/main/App.tsx"><img src="assets/skills/typescript-original.svg" alt="TypeScript" width="42" height="42"><br><sub>TypeScript</sub></a></td>
-<td align="center" width="100"><a href="https://github.com/yoko1234p/TGLocal/blob/main/src/popup.html"><img src="assets/skills/html5-original.svg" alt="HTML" width="34" height="34"><img src="assets/skills/css3-original.svg" alt="CSS" width="34" height="34"><br><sub>HTML/CSS</sub></a></td>
-<td align="center" width="100"><a href="https://github.com/yoko1234p/BarPilot/blob/main/scripts/localization/check-catalogs.py"><img src="assets/skills/python-original.svg" alt="Python" width="42" height="42"><br><sub>Python</sub></a></td>
-</tr></table>
+### 原生 App 與自動化
 
-| 範疇 | 實際使用 | 原始碼證據 |
-|:--|:--|:--|
-| 語言與介面 | Swift · SwiftUI · AppKit · JavaScript · TypeScript · HTML/CSS · Python | [BarPilot](https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/BarPilotApp.swift) · [TGLocal](https://github.com/yoko1234p/TGLocal/blob/main/src/popup.html) · [TypeScript](https://github.com/yoko1234p/impatrickho/blob/main/App.tsx) · [Python 程式碼](https://github.com/yoko1234p/BarPilot/blob/main/scripts/localization/check-catalogs.py) |
-| macOS 系統介面 | Vision · ScreenCaptureKit · Accessibility · EventKit · UserNotifications | [CaptureText](https://github.com/yoko1234p/CaptureText/blob/main/DeskTools/Sources/CaptureCore/Recognition.swift) · [BarPilot](https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/MenuBarInventory.swift) · [NotchHub](https://github.com/yoko1234p/NotchHub/blob/main/NotchHub/Sources/NotchHub/Features/CalendarWidget/CalendarManager.swift) |
-| 瀏覽器平台 | Chrome Extension Manifest V3 · content scripts · Web APIs | [擴充設定](https://github.com/yoko1234p/TGLocal/blob/main/manifest.json) · [媒體控制](https://github.com/yoko1234p/TGLocal/blob/main/src/inline.js) |
-| 網頁介面 | React · Vite · React Three Fiber · Framer Motion · Tailwind CSS | [作品集 App](https://github.com/yoko1234p/impatrickho/blob/main/App.tsx) · [3D 場景](https://github.com/yoko1234p/impatrickho/blob/main/components/Scene3D.tsx) · [依賴套件](https://github.com/yoko1234p/impatrickho/blob/main/package.json) |
-| 建置與驗證 | Swift Package Manager · XcodeGen · Node.js/npm · Playwright | [SwiftPM](https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Package.swift) · [XcodeGen](https://github.com/yoko1234p/NotchHub/blob/main/NotchHub/project.yml) · [瀏覽器測試](https://github.com/yoko1234p/TGLocal/blob/main/tests/extension.spec.mjs) |
+<p align="center">
+<a href="https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/BarPilotApp.swift"><img src="assets/skills/tile-swift.svg" alt="Swift" width="96" height="90"></a>
+<a href="https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/DisplayLayoutsView.swift"><img src="assets/skills/tile-swiftui.svg" alt="SwiftUI" width="96" height="90"></a>
+<a href="https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/MenuBarInventory.swift"><img src="assets/skills/tile-appkit.svg" alt="AppKit" width="96" height="90"></a>
+<a href="https://github.com/yoko1234p/BarPilot/blob/main/scripts/localization/check-catalogs.py"><img src="assets/skills/tile-python.svg" alt="Python" width="96" height="90"></a>
+</p>
+
+### 網頁與手機
+
+<p align="center">
+<a href="https://github.com/yoko1234p/TGLocal/blob/main/src/inline.js"><img src="assets/skills/tile-javascript.svg" alt="JavaScript" width="96" height="90"></a>
+<a href="https://github.com/yoko1234p/impatrickho/blob/main/App.tsx"><img src="assets/skills/tile-typescript.svg" alt="TypeScript" width="96" height="90"></a>
+<a href="https://github.com/yoko1234p/TGLocal/blob/main/src/popup.html"><img src="assets/skills/tile-html-css.svg" alt="HTML/CSS" width="96" height="90"></a>
+<a href="https://github.com/yoko1234p/impatrickho/blob/main/App.tsx"><img src="assets/skills/tile-react.svg" alt="React" width="96" height="90"></a>
+<a href="https://github.com/yoko1234p/impatrickho/blob/main/constants.ts"><img src="assets/skills/tile-nextjs.svg" alt="Next.js" width="96" height="90"></a>
+<a href="https://github.com/yoko1234p/impatrickho/blob/main/constants.ts"><img src="assets/skills/tile-react-native.svg" alt="React Native" width="96" height="90"></a>
+<a href="https://github.com/yoko1234p/impatrickho/blob/main/constants.ts"><img src="assets/skills/tile-nodejs.svg" alt="Node.js" width="96" height="90"></a>
+</p>
+
+### 雲端、部署與 AI
+
+<p align="center">
+<a href="https://github.com/yoko1234p/impatrickho/blob/main/constants.ts"><img src="assets/skills/tile-docker.svg" alt="Docker" width="96" height="90"></a>
+<a href="https://github.com/yoko1234p/impatrickho/blob/main/constants.ts"><img src="assets/skills/tile-jenkins.svg" alt="Jenkins" width="96" height="90"></a>
+<a href="https://github.com/yoko1234p/impatrickho/blob/main/constants.ts"><img src="assets/skills/tile-aws.svg" alt="AWS" width="96" height="90"></a>
+<a href="https://github.com/yoko1234p/impatrickho/blob/main/constants.ts"><img src="assets/skills/tile-gcp.svg" alt="GCP" width="96" height="90"></a>
+<a href="https://github.com/yoko1234p/impatrickho/blob/main/constants.ts"><img src="assets/skills/tile-claude-code.svg" alt="Claude Code" width="96" height="90"></a>
+<img src="assets/skills/tile-codex.svg" alt="Codex" width="96" height="90">
+</p>
+
+[履歷](https://github.com/yoko1234p/impatrickho/blob/main/constants.ts)亦記錄 Java、PHP、MySQL、Adobe AEM、Tailwind CSS 同 Sass。
 
 ### 代表性實作
 

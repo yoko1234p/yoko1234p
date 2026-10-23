@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="90" viewBox="0 0 96 90" role="img" aria-label="Codex">
+<rect x="1" y="1" width="94" height="88" rx="14" fill="#f5f9fc" stroke="#c8d9e8" stroke-width="1.5"/>
+<rect x="15" y="85" width="66" height="3" rx="1.5" fill="#ecaa69"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 64 64" role="img" aria-label="Codex" x="26" y="13">
+<rect width="64" height="64" rx="14" fill="#147b83" />
+<rect x="10" y="15" width="44" height="34" rx="6" fill="#f3fbfb" />
+<path d="M23 27l-6 5 6 5M30 39h12" fill="none" stroke="#147b83" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="16" cy="20" r="1.4" fill="#147b83" /><circle cx="21" cy="20" r="1.4" fill="#147b83" />
+</svg>
+<text x="48" y="73" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Arial,sans-serif" font-size="11" font-weight="700" fill="#23364a">Codex</text>
+</svg>
