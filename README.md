@@ -7,6 +7,8 @@
 
 I build independent macOS and browser tools that make everyday work easier to find, finish and review.
 
+[↗ Live portfolio & CV](https://impatrickho.vercel.app/) · [Source repository](https://github.com/yoko1234p/impatrickho)
+
 ## Featured tools
 
 <p align="center">
@@ -17,7 +19,7 @@ I build independent macOS and browser tools that make everyday work easier to fi
 
 ## What I build with
 
-My stack combines public project code, [professional experience](https://github.com/yoko1234p/impatrickho/blob/main/constants.ts) and the coding tools I use. Project tiles link to code; career skills link to my CV.
+My stack combines public project code, [professional experience](https://impatrickho.vercel.app/) and the coding tools I use. Project tiles link to code; career skills link to [CV data](https://github.com/yoko1234p/impatrickho/blob/main/constants.ts).
 
 ### Native apps & automation
 
@@ -58,7 +60,7 @@ Also in my [CV](https://github.com/yoko1234p/impatrickho/blob/main/constants.ts)
 - **CaptureText:** on-device OCR and table recognition, with screen capture and export workflows. [Recognition source](https://github.com/yoko1234p/CaptureText/blob/main/DeskTools/Sources/CaptureCore/Recognition.swift) · [Table source](https://github.com/yoko1234p/CaptureText/blob/main/DeskTools/Sources/CaptureCore/TableRecognition.swift)
 - **BarPilot:** menu-bar inventory, positioning and display-specific layouts. [Inventory source](https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/MenuBarInventory.swift) · [Positioning source](https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/MenuBarPositionService.swift)
 - **TG Local:** Telegram Web media controls and guarded resumable downloads, checked with browser tests. [Download source](https://github.com/yoko1234p/TGLocal/blob/main/src/downloads.js) · [Browser tests](https://github.com/yoko1234p/TGLocal/blob/main/tests/extension.spec.mjs)
-- **Web portfolio:** interactive React/TypeScript interface with a 3D scene and motion design. [App source](https://github.com/yoko1234p/impatrickho/blob/main/App.tsx) · [Scene source](https://github.com/yoko1234p/impatrickho/blob/main/components/Scene3D.tsx)
+- **Web portfolio:** interactive React/TypeScript interface with a 3D scene and motion design. [Live site](https://impatrickho.vercel.app/) · [App source](https://github.com/yoko1234p/impatrickho/blob/main/App.tsx) · [Scene source](https://github.com/yoko1234p/impatrickho/blob/main/components/Scene3D.tsx)
 
 ## Explore the apps
 

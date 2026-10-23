@@ -7,6 +7,8 @@
 
 我開發獨立的 macOS 與瀏覽器工具，讓日常工作更易找到、完成和整理。
 
+[↗ 互動作品集與履歷](https://impatrickho.vercel.app/) · [原始碼](https://github.com/yoko1234p/impatrickho)
+
 ## 精選工具
 
 <p align="center">
@@ -17,7 +19,7 @@
 
 ## 我用嘅技術
 
-呢度結合公開項目、[工作經驗](https://github.com/yoko1234p/impatrickho/blob/main/constants.ts)同我用嘅開發工具。項目圖示連到程式碼；職涯技術連到履歷。
+呢度結合公開項目、[工作經驗](https://impatrickho.vercel.app/)同我用嘅開發工具。項目圖示連到程式碼；職涯技術連到[履歷資料](https://github.com/yoko1234p/impatrickho/blob/main/constants.ts)。
 
 ### 原生 App 與自動化
 
@@ -58,7 +60,7 @@
 - **CaptureText：**本機 OCR 與表格辨識，串接畫面擷取及匯出流程。[OCR 原始碼](https://github.com/yoko1234p/CaptureText/blob/main/DeskTools/Sources/CaptureCore/Recognition.swift) · [表格原始碼](https://github.com/yoko1234p/CaptureText/blob/main/DeskTools/Sources/CaptureCore/TableRecognition.swift)
 - **BarPilot：**選單列圖示盤點、定位及按螢幕配置布局。[盤點原始碼](https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/MenuBarInventory.swift) · [定位原始碼](https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/MenuBarPositionService.swift)
 - **TG Local：**Telegram Web 媒體控制與有條件的中斷續傳，並以瀏覽器測試驗證。[下載原始碼](https://github.com/yoko1234p/TGLocal/blob/main/src/downloads.js) · [瀏覽器測試](https://github.com/yoko1234p/TGLocal/blob/main/tests/extension.spec.mjs)
-- **網頁作品集：**React／TypeScript 互動介面，包含 3D 場景和動畫設計。[App 原始碼](https://github.com/yoko1234p/impatrickho/blob/main/App.tsx) · [場景原始碼](https://github.com/yoko1234p/impatrickho/blob/main/components/Scene3D.tsx)
+- **網頁作品集：**React／TypeScript 互動介面，包含 3D 場景和動畫設計。[網站](https://impatrickho.vercel.app/) · [App 原始碼](https://github.com/yoko1234p/impatrickho/blob/main/App.tsx) · [場景原始碼](https://github.com/yoko1234p/impatrickho/blob/main/components/Scene3D.tsx)
 
 ## 探索 App
 

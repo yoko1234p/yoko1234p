@@ -7,6 +7,8 @@
 
 我开发独立的 macOS 与浏览器工具，让日常工作更容易找到、完成和整理。
 
+[↗ 交互作品集与履历](https://impatrickho.vercel.app/) · [源代码](https://github.com/yoko1234p/impatrickho)
+
 ## 精选工具
 
 <p align="center">
@@ -17,7 +19,7 @@
 
 ## 我使用的技术
 
-这里结合了公开项目、[工作经验](https://github.com/yoko1234p/impatrickho/blob/main/constants.ts)和我使用的开发工具。项目图标链接到代码；职业技能链接到履历。
+这里结合了公开项目、[工作经验](https://impatrickho.vercel.app/)和我使用的开发工具。项目图标链接到代码；职业技能链接到[履历资料](https://github.com/yoko1234p/impatrickho/blob/main/constants.ts)。
 
 ### 原生应用与自动化
 
@@ -58,7 +60,7 @@
 - **CaptureText：**本机 OCR 与表格识别，连接屏幕捕获及导出流程。[OCR 源代码](https://github.com/yoko1234p/CaptureText/blob/main/DeskTools/Sources/CaptureCore/Recognition.swift) · [表格源代码](https://github.com/yoko1234p/CaptureText/blob/main/DeskTools/Sources/CaptureCore/TableRecognition.swift)
 - **BarPilot：**菜单栏图标盘点、定位及按屏幕配置布局。[盘点源代码](https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/MenuBarInventory.swift) · [定位源代码](https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/MenuBarPositionService.swift)
 - **TG Local：**Telegram Web 媒体控制与有条件的断点续传，并通过浏览器测试验证。[下载源代码](https://github.com/yoko1234p/TGLocal/blob/main/src/downloads.js) · [浏览器测试](https://github.com/yoko1234p/TGLocal/blob/main/tests/extension.spec.mjs)
-- **网页作品集：**React／TypeScript 交互界面，包含 3D 场景和动画设计。[应用源代码](https://github.com/yoko1234p/impatrickho/blob/main/App.tsx) · [场景源代码](https://github.com/yoko1234p/impatrickho/blob/main/components/Scene3D.tsx)
+- **网页作品集：**React／TypeScript 交互界面，包含 3D 场景和动画设计。[网站](https://impatrickho.vercel.app/) · [应用源代码](https://github.com/yoko1234p/impatrickho/blob/main/App.tsx) · [场景源代码](https://github.com/yoko1234p/impatrickho/blob/main/components/Scene3D.tsx)
 
 ## 探索应用
 
