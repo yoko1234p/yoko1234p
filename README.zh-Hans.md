@@ -15,6 +15,25 @@
 <a href="https://github.com/yoko1234p/NotchHub"><img src="assets/card-NotchHub.svg" alt="NotchHub" width="31%"></a>
 </p>
 
+## 技术履历
+
+我使用 macOS 原生框架、浏览器扩展、网页界面和测试工具。下表每项技术都链接到可查阅的公开代码。
+
+| 领域 | 实际使用 | 源代码证据 |
+|:--|:--|:--|
+| 语言与界面 | Swift · SwiftUI · AppKit · JavaScript · TypeScript · HTML/CSS · Python | [BarPilot](https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/BarPilotApp.swift) · [TGLocal](https://github.com/yoko1234p/TGLocal/blob/main/src/popup.html) · [TypeScript](https://github.com/yoko1234p/impatrickho/blob/main/App.tsx) · [Python 代码](https://github.com/yoko1234p/BarPilot/blob/main/scripts/localization/check-catalogs.py) |
+| macOS 系统接口 | Vision · ScreenCaptureKit · Accessibility · EventKit · UserNotifications | [CaptureText](https://github.com/yoko1234p/CaptureText/blob/main/DeskTools/Sources/CaptureCore/Recognition.swift) · [BarPilot](https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/MenuBarInventory.swift) · [NotchHub](https://github.com/yoko1234p/NotchHub/blob/main/NotchHub/Sources/NotchHub/Features/CalendarWidget/CalendarManager.swift) |
+| 浏览器平台 | Chrome Extension Manifest V3 · content scripts · Web APIs | [扩展配置](https://github.com/yoko1234p/TGLocal/blob/main/manifest.json) · [媒体控制](https://github.com/yoko1234p/TGLocal/blob/main/src/inline.js) |
+| 网页界面 | React · Vite · React Three Fiber · Framer Motion · Tailwind CSS | [作品集应用](https://github.com/yoko1234p/impatrickho/blob/main/App.tsx) · [3D 场景](https://github.com/yoko1234p/impatrickho/blob/main/components/Scene3D.tsx) · [依赖包](https://github.com/yoko1234p/impatrickho/blob/main/package.json) |
+| 构建与验证 | Swift Package Manager · XcodeGen · Node.js/npm · Playwright | [SwiftPM](https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Package.swift) · [XcodeGen](https://github.com/yoko1234p/NotchHub/blob/main/NotchHub/project.yml) · [浏览器测试](https://github.com/yoko1234p/TGLocal/blob/main/tests/extension.spec.mjs) |
+
+### 代表性实现
+
+- **CaptureText：**本机 OCR 与表格识别，连接屏幕捕获及导出流程。[OCR 源代码](https://github.com/yoko1234p/CaptureText/blob/main/DeskTools/Sources/CaptureCore/Recognition.swift) · [表格源代码](https://github.com/yoko1234p/CaptureText/blob/main/DeskTools/Sources/CaptureCore/TableRecognition.swift)
+- **BarPilot：**菜单栏图标盘点、定位及按屏幕配置布局。[盘点源代码](https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/MenuBarInventory.swift) · [定位源代码](https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/MenuBarPositionService.swift)
+- **TG Local：**Telegram Web 媒体控制与有条件的断点续传，并通过浏览器测试验证。[下载源代码](https://github.com/yoko1234p/TGLocal/blob/main/src/downloads.js) · [浏览器测试](https://github.com/yoko1234p/TGLocal/blob/main/tests/extension.spec.mjs)
+- **网页作品集：**React／TypeScript 交互界面，包含 3D 场景和动画设计。[应用源代码](https://github.com/yoko1234p/impatrickho/blob/main/App.tsx) · [场景源代码](https://github.com/yoko1234p/impatrickho/blob/main/components/Scene3D.tsx)
+
 ## 探索应用
 
 | 系列 | 项目 | 用途 |
