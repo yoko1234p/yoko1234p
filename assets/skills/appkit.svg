@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="AppKit">
+<rect width="64" height="64" rx="14" fill="#285a88"/>
+<rect x="11" y="15" width="42" height="34" rx="5" fill="#eff6fc"/>
+<path d="M11 25h42" stroke="#9ebdd3" stroke-width="2"/>
+<circle cx="18" cy="20" r="2" fill="#f5827f"/><circle cx="24" cy="20" r="2" fill="#f2c76d"/><circle cx="30" cy="20" r="2" fill="#75c995"/>
+<path d="M23 35h18M23 41h12" stroke="#285a88" stroke-width="3" stroke-linecap="round"/>
+</svg>

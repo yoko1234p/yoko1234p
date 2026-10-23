@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="SwiftUI">
+<defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#65b9ff"/><stop offset="1" stop-color="#6a62e8"/></linearGradient></defs>
+<rect width="64" height="64" rx="14" fill="url(#g)"/>
+<path d="M17 20h30v24H17z" fill="none" stroke="#fff" stroke-width="3" stroke-linejoin="round"/>
+<path d="M17 28h30M25 28v16" stroke="#fff" stroke-width="2.5"/>
+<circle cx="21" cy="24" r="1.5" fill="#fff"/><circle cx="26" cy="24" r="1.5" fill="#fff"/>
+</svg>

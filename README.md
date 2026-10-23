@@ -19,6 +19,16 @@ I build independent macOS and browser tools that make everyday work easier to fi
 
 I work with native macOS frameworks, browser extensions, web interfaces and test tooling. Each area below links to public code you can inspect.
 
+<table align="center"><tr>
+<td align="center" width="100"><a href="https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/BarPilotApp.swift"><img src="assets/skills/swift-original.svg" alt="Swift" width="42" height="42"><br><sub>Swift</sub></a></td>
+<td align="center" width="100"><a href="https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/DisplayLayoutsView.swift"><img src="assets/skills/swiftui.svg" alt="SwiftUI" width="42" height="42"><br><sub>SwiftUI</sub></a></td>
+<td align="center" width="100"><a href="https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/MenuBarInventory.swift"><img src="assets/skills/appkit.svg" alt="AppKit" width="42" height="42"><br><sub>AppKit</sub></a></td>
+<td align="center" width="100"><a href="https://github.com/yoko1234p/TGLocal/blob/main/src/inline.js"><img src="assets/skills/javascript-original.svg" alt="JavaScript" width="42" height="42"><br><sub>JavaScript</sub></a></td>
+<td align="center" width="100"><a href="https://github.com/yoko1234p/impatrickho/blob/main/App.tsx"><img src="assets/skills/typescript-original.svg" alt="TypeScript" width="42" height="42"><br><sub>TypeScript</sub></a></td>
+<td align="center" width="100"><a href="https://github.com/yoko1234p/TGLocal/blob/main/src/popup.html"><img src="assets/skills/html5-original.svg" alt="HTML" width="38" height="42"><img src="assets/skills/css3-original.svg" alt="CSS" width="38" height="42"><br><sub>HTML/CSS</sub></a></td>
+<td align="center" width="100"><a href="https://github.com/yoko1234p/BarPilot/blob/main/scripts/localization/check-catalogs.py"><img src="assets/skills/python-original.svg" alt="Python" width="42" height="42"><br><sub>Python</sub></a></td>
+</tr></table>
+
 | Area | Used in these projects | Source evidence |
 |:--|:--|:--|
 | Languages & UI | Swift · SwiftUI · AppKit · JavaScript · TypeScript · HTML/CSS · Python | [BarPilot](https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/BarPilotApp.swift) · [TGLocal](https://github.com/yoko1234p/TGLocal/blob/main/src/popup.html) · [TypeScript](https://github.com/yoko1234p/impatrickho/blob/main/App.tsx) · [Python code](https://github.com/yoko1234p/BarPilot/blob/main/scripts/localization/check-catalogs.py) |
