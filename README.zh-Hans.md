@@ -25,7 +25,7 @@
 <td align="center" width="100"><a href="https://github.com/yoko1234p/BarPilot/blob/main/BarPilot/Sources/BarPilot/MenuBarInventory.swift"><img src="assets/skills/appkit.svg" alt="AppKit" width="42" height="42"><br><sub>AppKit</sub></a></td>
 <td align="center" width="100"><a href="https://github.com/yoko1234p/TGLocal/blob/main/src/inline.js"><img src="assets/skills/javascript-original.svg" alt="JavaScript" width="42" height="42"><br><sub>JavaScript</sub></a></td>
 <td align="center" width="100"><a href="https://github.com/yoko1234p/impatrickho/blob/main/App.tsx"><img src="assets/skills/typescript-original.svg" alt="TypeScript" width="42" height="42"><br><sub>TypeScript</sub></a></td>
-<td align="center" width="100"><a href="https://github.com/yoko1234p/TGLocal/blob/main/src/popup.html"><img src="assets/skills/html5-original.svg" alt="HTML" width="38" height="42"><img src="assets/skills/css3-original.svg" alt="CSS" width="38" height="42"><br><sub>HTML/CSS</sub></a></td>
+<td align="center" width="100"><a href="https://github.com/yoko1234p/TGLocal/blob/main/src/popup.html"><img src="assets/skills/html5-original.svg" alt="HTML" width="34" height="34"><img src="assets/skills/css3-original.svg" alt="CSS" width="34" height="34"><br><sub>HTML/CSS</sub></a></td>
 <td align="center" width="100"><a href="https://github.com/yoko1234p/BarPilot/blob/main/scripts/localization/check-catalogs.py"><img src="assets/skills/python-original.svg" alt="Python" width="42" height="42"><br><sub>Python</sub></a></td>
 </tr></table>
 
