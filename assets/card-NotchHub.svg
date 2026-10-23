@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="180" viewBox="0 0 360 180" role="img" aria-label="NotchHub: Focus in the notch">
+<rect width="360" height="180" rx="20" fill="#17283b"/>
+<circle cx="305" cy="40" r="100" fill="#f0c381" opacity=".09"/>
+<rect x="20" y="22" width="58" height="58" rx="15" fill="#f0c381" opacity=".18"/>
+<text x="49" y="63" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Arial,sans-serif" font-size="35" font-weight="700" fill="#f0c381">◠</text>
+<text x="22" y="119" font-family="-apple-system,BlinkMacSystemFont,Arial,sans-serif" font-size="28" font-weight="700" fill="#f7fbff">NotchHub</text>
+<text x="23" y="148" font-family="-apple-system,BlinkMacSystemFont,Arial,sans-serif" font-size="17" fill="#b9cde1">Focus in the notch</text>
+<rect x="20" y="169" width="320" height="2" rx="1" fill="#f0c381" opacity=".5"/>
+</svg>
