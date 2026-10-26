@@ -67,7 +67,7 @@
 | 系列 | 项目 | 用途 |
 |:--|:--|:--|
 | **系统效率** | | |
-| | [BarPilot](https://github.com/yoko1234p/BarPilot) | 整理菜单栏图标与多屏幕布局。 · [↓ 预览版](https://github.com/yoko1234p/BarPilot/releases/tag/v0.5.1-preview.1) |
+| | [BarPilot](https://github.com/yoko1234p/BarPilot) | 整理菜单栏图标与多屏幕布局。 · [↓ 预览版](https://github.com/yoko1234p/BarPilot/releases/tag/v0.5.2-preview.1) |
 | | [QuickSwitch](https://github.com/yoko1234p/QuickSwitch) | 系统开关、保持唤醒计时与配置。 · [↓ 预览版](https://github.com/yoko1234p/QuickSwitch/releases/tag/v0.4.0-preview.1) |
 | | [SuperPilot](https://github.com/yoko1234p/SuperPilot) | Finder 操作、批量重命名与快捷键。 · [↓ 预览版](https://github.com/yoko1234p/SuperPilot/releases/tag/v0.4.4-preview.1) |
 | **文字与笔记** | | |

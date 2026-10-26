@@ -67,7 +67,7 @@ Also in my [CV](https://github.com/yoko1234p/impatrickho/blob/main/constants.ts)
 | Series | Project | What it does |
 |:--|:--|:--|
 | **System utilities** | | |
-| | [BarPilot](https://github.com/yoko1234p/BarPilot) | Arrange menu-bar icons and display layouts. · [↓ Preview](https://github.com/yoko1234p/BarPilot/releases/tag/v0.5.1-preview.1) |
+| | [BarPilot](https://github.com/yoko1234p/BarPilot) | Arrange menu-bar icons and display layouts. · [↓ Preview](https://github.com/yoko1234p/BarPilot/releases/tag/v0.5.2-preview.1) |
 | | [QuickSwitch](https://github.com/yoko1234p/QuickSwitch) | System switches, keep-awake timers and profiles. · [↓ Preview](https://github.com/yoko1234p/QuickSwitch/releases/tag/v0.4.0-preview.1) |
 | | [SuperPilot](https://github.com/yoko1234p/SuperPilot) | Finder actions, batch rename and shortcuts. · [↓ Preview](https://github.com/yoko1234p/SuperPilot/releases/tag/v0.4.4-preview.1) |
 | **Text and notes** | | |
