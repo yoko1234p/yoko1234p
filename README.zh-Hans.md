@@ -50,7 +50,7 @@
 <a href="https://github.com/yoko1234p/impatrickho/blob/main/constants.ts"><img src="assets/skills/tile-aws.svg" alt="AWS" width="96" height="90"></a>
 <a href="https://github.com/yoko1234p/impatrickho/blob/main/constants.ts"><img src="assets/skills/tile-gcp.svg" alt="GCP" width="96" height="90"></a>
 <a href="https://github.com/yoko1234p/impatrickho/blob/main/constants.ts"><img src="assets/skills/tile-claude-code.svg" alt="Claude Code" width="96" height="90"></a>
-<img src="assets/skills/tile-codex.svg" alt="Codex" width="96" height="90">
+<a href="https://openai.com/codex/"><img src="assets/skills/tile-codex.svg" alt="Codex" width="96" height="90"></a>
 </p>
 
 [履历](https://github.com/yoko1234p/impatrickho/blob/main/constants.ts)还记录了 Java、PHP、MySQL、Adobe AEM、Tailwind CSS 和 Sass。
